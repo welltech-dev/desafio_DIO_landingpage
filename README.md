@@ -44,6 +44,10 @@ Este projeto foi desenvolvido para os seguintes fins:<br>
 
 🏗️ Arquitetura da Solução:
 
+<p align="center">
+  <img src="assets/arquitetura.gif" alt="Arquitetura Animada">
+</p>
+
 <img width="2048" height="1412" alt="image" src="https://github.com/user-attachments/assets/8dd1d8b5-d492-4f1c-8453-0c81a1f797e8" />
 
 

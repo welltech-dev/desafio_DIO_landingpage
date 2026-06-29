@@ -44,11 +44,35 @@ Este projeto foi desenvolvido para os seguintes fins:<br>
 
 🏗️ Arquitetura da Solução:
 
+Arquitetura Animada...<br>
+• Para melhor compreenção siga sempre o fluxo das setas.
+
 <p align="center">
-  <img src="assets/arquitetura.gif" alt="Arquitetura Animada">
+  <img src="assets/desafio_DIO_landingpage.gif" alt="Arquitetura Animada">
 </p>
 
+Arquitetura Estática...
+
 <img width="2048" height="1412" alt="image" src="https://github.com/user-attachments/assets/8dd1d8b5-d492-4f1c-8453-0c81a1f797e8" />
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+☁️ Serviços AWS Utilizados:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
